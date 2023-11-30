@@ -1,28 +1,28 @@
 const students = [
     {
         id: 1,
-        name: "Ange Mukundente",
+        name: "Ange Mu",
         age: 20,
         email: "ange@gmail.com",
         gender: "Female",
     },
     {
         id: 2,
-        name: "Isaac Mukunzi",
+        name: "Isaac Mu",
         age: 23,
         email: "mukunzi@gmail.com",
         gender: "Male", 
     },
     {
         id: 3,
-        name: "Ruth Uwamahoro",
+        name: "Ruth Uwa",
         age: 21,
         email: "ruth@gmail.com",
         gender: "Female",
     },
     {
         id: 4,
-        name: "Elie Mugisha",
+        name: "Elie Ga",
         age: 23,
         email: "mugisha@gmail.com",
         gender: "Male",
@@ -30,4 +30,5 @@ const students = [
 ];
 
 module.exports = {
-    students};
+    students
+  };
